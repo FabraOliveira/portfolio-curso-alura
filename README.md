@@ -14,7 +14,7 @@ Olá, seja bem-vindo ao meu primeiro projeto de portfólio desenvolvido no curso
 **Fabricio de Oliveira**
 
 ## 🌐 Link do projeto online:
-*(#)*
+*(https://portfolio-curso-alura-two.vercel.app)*
 
 ## 📱 Contato:
 - [LinkedIn](https://www.linkedin.com/in/fabricio-de-oliveira-bimbi-516719223/)
